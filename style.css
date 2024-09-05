@@ -4,8 +4,9 @@
 
     }
 
-    h4 .imgcompartilhar {
+  .imgcompartilhar {
         height: 5em;
         align-items: wrap;
+        width: 70%;
 
     }
